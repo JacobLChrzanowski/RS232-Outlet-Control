@@ -1,14 +1,14 @@
 ###################################
 ##                              ##
 ##   Jacob L Chrzanowski's     ##
-##      JSON Thing v1.0.1     ##
+##    Lights Thing v1.0.1     ##
 ##                          ##
 #############################
 
 import random
 import time             # for time stuff
 import threading        # for parallel computing
-import serial          # for communication with serial port
+import serial           # for communication with serial port
 import signal
 import sys
 
